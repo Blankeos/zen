@@ -1,13 +1,13 @@
 <p align="middle">
-  <img src="assets/dots.png" width="200" />
-  <img src="assets/screencap.jpg" />
+  <!-- <img src="assets/dots.png" width="200" /> -->
+  <img src="assets/screencap.png" />
 </p>
 
-Poimandres is a minimal, frameless dark-theme inspired mostly by [blueberry](https://github.com/peymanslh/vscode-blueberry-dark-theme). This theme tries to focus on semantic meaning instead of color variety. You'll find that it colors things like errors, voids, throws and deletes in red, types are slighty darker so that the spotlight is on the code, green new's, etc.
+Blankeos Zen is my own personal, minimal, and frameless dark-theme inspired mostly by [poimandres](https://github.com/drcmda/poimandres-theme). Sometimes I don't feel the green in poimandres and wanted a bluer vibe to my editor. That's why I made this.
 
 The screencap above uses the following settings:
 
-```json
+<!-- ```json
 {
   "workbench.colorTheme": "poimandres",
   "workbench.iconTheme": "quill-icons-minimal",
@@ -19,18 +19,18 @@ The screencap above uses the following settings:
   "editor.fontFamily": "Menlo",
   "window.zoomLevel": 0.5,
 }
-```
+``` -->
 
 #### Contribute
 
-    git clone https://github.com/drcmda/poimandres-theme
-    cd poimandres-theme
+    git clone https://github.com/Blankeos/blankeos-zen-theme
+    cd blankeos-zen-theme
     npm install
     npm run dev
 
 Go to `Run and Debug`, click the ▶ icon, any change you make in `src/theme.js` will now be reflected when you save.
 
-## Related
+<!-- ## Related
 
 - [poimandres-alacritty][poimandres-alacritty]: Alacritty version
 - [poimandres-iterm][poimandres-iterm]: Iterm version
@@ -48,4 +48,4 @@ Go to `Run and Debug`, click the ▶ icon, any change you make in `src/theme.js`
 
 ```bash
 hyper i hyper-pmndrs
-```
+``` -->
