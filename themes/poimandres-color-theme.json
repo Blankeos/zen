@@ -1,5 +1,5 @@
 {
-    "name": "poimandres dark theme",
+    "name": "blankeos zen dark theme",
     "type": "dark",
     "colors": {
       "activityBar.background": "#1b1e28",
@@ -493,13 +493,13 @@
       {
         "scope": ["keyword.control.flow"],
         "settings": {
-          "foreground": "#5DE4c7c0"
+          "foreground": "#60a5fac0"
         }
       },
       {
         "scope": ["keyword.operator.new", "keyword.control.new"],
         "settings": {
-          "foreground": "#5DE4c7"
+          "foreground": "#60a5fa"
         }
       },
       {
@@ -507,7 +507,7 @@
           "variable.language.this", "storage.modifier.async", "storage.modifier", "variable.language.super"
         ],
         "settings": {
-          "foreground": "#5DE4c7"
+          "foreground": "#60a5fa"
         }
       },
       {
@@ -565,7 +565,7 @@
       {
         "scope": ["keyword.control.module", "keyword.control.import", "keyword.control.export", "keyword.control.default", "meta.import", "meta.export"],
         "settings": {
-          "foreground": "#5DE4c7"
+          "foreground": "#60a5fa"
         }
       },
       {
@@ -607,13 +607,13 @@
       {
         "scope": ["support.class.component"],
         "settings": {
-          "foreground": "#5DE4c7"
+          "foreground": "#60a5fa"
         }
       },
       {
         "scope": ["entity.name.tag", "entity.name.tag", "meta.tag.sgml", "markup.deleted.git_gutter"],
         "settings": {
-          "foreground": "#5DE4c7"
+          "foreground": "#60a5fa"
         }
       },
       {
@@ -660,7 +660,7 @@
           "text.html.derivative"
         ],
         "settings": {
-          "foreground": "#5DE4c7"
+          "foreground": "#60a5fa"
         }
       },
       {
