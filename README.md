@@ -5,7 +5,7 @@
 
 Blankeos Zen is my own personal, minimal, and frameless dark-theme inspired mostly by [poimandres](https://github.com/drcmda/poimandres-theme). Sometimes I don't feel the green in poimandres and wanted a bluer vibe to my editor. That's why I made this.
 
-The screencap above uses the following settings:
+<!-- The screencap above uses the following settings: -->
 
 <!-- ```json
 {
@@ -21,14 +21,27 @@ The screencap above uses the following settings:
 }
 ``` -->
 
+#### Development Requirements & Tips
+
+- Use [Bun](bun.sh)
+- Install [`vsce`](https://code.visualstudio.com/api/working-with-extensions/publishing-extension) (for packaging & publishing the extension)
+- Refer to this [vid](https://www.youtube.com/watch?v=pGzssFNtWXw) on how to publish:
+  ```sh
+  vsce login <publisher name>
+  vsce package
+  vsce publih
+  ```
+
 #### Contribute
 
     git clone https://github.com/Blankeos/blankeos-zen-theme
     cd blankeos-zen-theme
-    npm install
-    npm run dev
+    bun install
+    bun run dev
 
 Go to `Run and Debug`, click the ▶ icon, any change you make in `src/theme.js` will now be reflected when you save.
+
+`
 
 <!-- ## Related
 

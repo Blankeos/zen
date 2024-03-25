@@ -1,8 +1,8 @@
 {
-  "name": "pmndrs",
+  "name": "blankeos-zen",
   "icon": "assets/pmndrs.png",
-  "displayName": "poimandres",
-  "description": "poimandres dark theme",
+  "displayName": "Blankeos Zen",
+  "description": "Blankeos Zen - a bluer poimandres",
   "version": "0.3.7",
   "keywords": [
     "blankeos",
