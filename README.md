@@ -31,9 +31,9 @@ This theme contains:
 
 #### Publishing To Marketplace
 
-- Refer to this [vid](https://www.youtube.com/watch?v=pGzssFNtWXw) on how to publish:
+- Go to [Visual Studio Marketplace](https://marketplace.visualstudio.com/) > Publish Extensions > Create Publisher.
 
-- First get a Personal Access Token from https://marketplace.visualstudio.com/manage/access-tokens
+- Generate a Personal Access Token on [dev.azure.com](dev.azure.com) > Click the 💁🏻‍♂️⚙️ icon > Personal Access Tokens > New Token. Make sure it's "Custom" and "Marketplace" scope is "Manage".
 
 - Run the following commands:
 
@@ -42,6 +42,8 @@ This theme contains:
   vsce package
   vsce publish
   ```
+
+- References: [Vid](https://www.youtube.com/watch?v=pGzssFNtWXw) on how to publish. [Official Doc](https://code.visualstudio.com/api/working-with-extensions/publishing-extension) by Visual Studio.
 
 #### Contribute
 
