@@ -19,8 +19,8 @@
 
 This theme contains:
 
-- Blankeos Zen - a bluer poimandres
-- Blankeos Zen Dark - a bluer poimandres but darker
+- Blankeos Zen - a bluer poimandres.
+- Blankeos Zen Dark - a bluer poimandres but darker background.
 
 ---
 
@@ -28,7 +28,14 @@ This theme contains:
 
 - Use [Bun](bun.sh)
 - Install [`vsce`](https://code.visualstudio.com/api/working-with-extensions/publishing-extension) (for packaging & publishing the extension)
+
+#### Publishing To Marketplace
+
 - Refer to this [vid](https://www.youtube.com/watch?v=pGzssFNtWXw) on how to publish:
+
+- First get a Personal Access Token from https://marketplace.visualstudio.com/manage/access-tokens
+
+- Run the following commands:
 
   ```sh
   vsce login <publisher name>
@@ -43,7 +50,7 @@ This theme contains:
     bun install
     bun run dev
 
-Go to `Run and Debug`, click the ▶ icon, any change you make in `src/theme.js` will now be reflected when you save.
+- Go to `Run and Debug`, click the ▶ icon, any change you make in `src/theme.js` will now be reflected when you save.
 
 <!-- ## Related
 
