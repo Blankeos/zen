@@ -1,5 +1,5 @@
 <p align="middle">
-  <img src="https://raw.githubusercontent.com/Blankeos/zen/main/assets/icon.svg" width="150"  />
+  <img src="https://raw.githubusercontent.com/Blankeos/zen/main/assets/icon.png" width="150"  />
   <h3 align="middle">Blankeos Zen</h3>
   <p align="middle">A minimal, dark, and frameless theme for VS Code. Based on poimandres.</p>
 </p>
