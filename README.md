@@ -1,7 +1,18 @@
-<img src="https://github.com/Blankeos/zen/raw/main/assets/icon.svg" width="128" />
 <p align="middle">
-  <!-- <img src="assets/dots.png" width="200" /> -->
-  <img src="https://github.com/Blankeos/zen/raw/main/assets/screencap.png" />
+  <img src="https://raw.githubusercontent.com/Blankeos/zen/main/assets/icon.svg" width="150"  />
+  <h3 align="middle">Blankeos Zen</h3>
+  <p align="middle">A minimal, dark, and frameless theme for VS Code. Based on poimandres.</p>
+</p>
+
+<div align="middle">
+<img src="https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat">
+<img src="https://img.shields.io/badge/version-0.0.2-brightgreen.svg?style=flat">
+</div>
+
+<br />
+
+<p align="middle">
+  <img src="https://raw.githubusercontent.com/Blankeos/zen/main/assets/screencap.jpg" />
 </p>
 
 **Blankeos Zen** is essentially a **_blue [poimandres](https://github.com/drcmda/poimandres-theme)_**. It's my own personal, minimal, and frameless dark-theme. Sometimes I don't feel the green in poimandres and wanted a bluer vibe to my editor. That's why I made this.

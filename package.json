@@ -3,7 +3,7 @@
   "icon": "assets/pmndrs.png",
   "displayName": "Blankeos Zen",
   "description": "Blankeos Zen - a bluer poimandres",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "blankeos",
     "blnks",
@@ -21,12 +21,12 @@
   "publisher": "blankeos",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/blankeos/blankeos-zen-theme/issues"
+    "url": "https://github.com/blankeos/zen/issues"
   },
-  "homepage": "https://github.com/blankeos/blankeos-zen-theme#readme",
+  "homepage": "https://github.com/blankeos/zen#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blankeos/blankeos-zen-theme.git"
+    "url": "git+https://github.com/blankeos/zen.git"
   },
   "engines": {
     "vscode": "^1.54.0"
@@ -40,6 +40,11 @@
         "label": "Blankeos Zen",
         "uiTheme": "vs-dark",
         "path": "./themes/blankeos-zen-theme.json"
+      },
+      {
+        "label": "Blankeos Zen Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blankeos-zen-dark-theme.json"
       }
     ]
   },
