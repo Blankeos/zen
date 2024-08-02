@@ -1,9 +1,9 @@
 {
   "name": "blankeos-zen",
-  "icon": "assets/pmndrs.png",
+  "icon": "assets/icon.png",
   "displayName": "Blankeos Zen",
   "description": "Blankeos Zen - a bluer poimandres",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "keywords": [
     "blankeos",
     "blnks",
