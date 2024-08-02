@@ -54,7 +54,7 @@ const stormNoitalics = {
 
 function schema({ colors, styles }) {
   return `{
-    "name": "poimandres dark theme",
+    "name": "blankeos zen dark theme",
     "type": "dark",
     "colors": {
       "activityBar.background": "${colors.bg}",
